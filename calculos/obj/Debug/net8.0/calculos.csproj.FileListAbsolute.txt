@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\projs\test-console-xunit\calculos\bin\Debug\net8.0\calculos.exe
+C:\Users\42634177801\Desktop\projs\test-console-xunit\calculos\bin\Debug\net8.0\calculos.deps.json
+C:\Users\42634177801\Desktop\projs\test-console-xunit\calculos\bin\Debug\net8.0\calculos.runtimeconfig.json
+C:\Users\42634177801\Desktop\projs\test-console-xunit\calculos\bin\Debug\net8.0\calculos.dll
+C:\Users\42634177801\Desktop\projs\test-console-xunit\calculos\bin\Debug\net8.0\calculos.pdb
+C:\Users\42634177801\Desktop\projs\test-console-xunit\calculos\obj\Debug\net8.0\calculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\projs\test-console-xunit\calculos\obj\Debug\net8.0\calculos.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\projs\test-console-xunit\calculos\obj\Debug\net8.0\calculos.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\projs\test-console-xunit\calculos\obj\Debug\net8.0\calculos.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\projs\test-console-xunit\calculos\obj\Debug\net8.0\calculos.sourcelink.json
+C:\Users\42634177801\Desktop\projs\test-console-xunit\calculos\obj\Debug\net8.0\calculos.dll
+C:\Users\42634177801\Desktop\projs\test-console-xunit\calculos\obj\Debug\net8.0\refint\calculos.dll
+C:\Users\42634177801\Desktop\projs\test-console-xunit\calculos\obj\Debug\net8.0\calculos.pdb
+C:\Users\42634177801\Desktop\projs\test-console-xunit\calculos\obj\Debug\net8.0\calculos.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\projs\test-console-xunit\calculos\obj\Debug\net8.0\ref\calculos.dll
